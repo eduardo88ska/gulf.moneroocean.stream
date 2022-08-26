@@ -1,0 +1,520 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://xmrchain.net/block/9809ab5e36bc3d2285ac1cb055e1d7f4aacaa667ff2a471009e37a2b70f1bcad
+Subject: xmrchain.net monero explorer
+Date: Thu, 21 Jul 2022 23:10:32 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--MWGKBNTZfy68pQ63If6zAis3bIx6eJdsijqF5jKqRi----"
+
+
+------MultipartBoundary--MWGKBNTZfy68pQ63If6zAis3bIx6eJdsijqF5jKqRi----
+Content-Type: text/html
+Content-ID: <frame-B5CA59A7FEB10DE7124BC5AEFB577980@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://xmrchain.net/block/9809ab5e36bc3d2285ac1cb055e1d7f4aacaa667ff2a471009e37a2b70f1bcad
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-4b37244b-0d65-405c-819e-c1a9fc32eb72@mhtml.blink" />
+    
+    <link rel="shortcut icon" href="about:blank">
+    <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+    <title>xmrchain.net monero explorer</title>
+    <!--<link rel="stylesheet" type="text/css" href="/css/style.css">-->
+    
+
+</head>
+<body>
+<div>
+
+    <div class="center">
+        <h1 class="center"><a href="https://xmrchain.net/">xmrchain.net &amp; Explore.Moneroworld.com</a></h1>
+        <h4 style="font-size: 15px; margin: 0px">(no javascript - no cookies - no web analytics trackers - no images - open sourced)</h4>
+        <h3 style="font-size: 18px; margin: 0px">Solo mine on your own blockchain to support the monero network!</h3>
+	<h4 style="font-size: 15px; margin: 0px"><a href="https://www.monero.fail/">Public Node Directory</a> || 
+	<a href="https://melo.tools/blocks/frequencies/">Monero Block Frequency Tool</a> ||
+	<a href="https://getmonero.org/">Monero Website</a> ||
+	<a href="https://ccs.getmonero.org/funding-required/">Make Monero Better!</a>
+	</h4><h4 style="font-size: 15px; margin: 0px"><a href="https://testnet.xmrchain.net/">Monero Testnet Explorer</a> || 
+	<a href="https://stagenet.xmrchain.net/">Monero Stagenet Explorer</a></h4>
+	<h4 style="font-size: 15px; margin: 0px">i2p links: <a href="http://exchanged.i2p/">exchanged.i2p</a> , <a href="http://lm.i2p/">Local Monero (lm.i2p)</a></h4>
+        <h4 style="font-size: 14px; margin: 0px"><a href="https://moneroworld.com/whysougly.html">Why so ugly? </a><a href="https://www.getmonero.org/get-started/faq/">Monero FAQ</a></h4>
+        <h4 style="font-size: 13px; margin: 0px"><a href="https://moneroblocks.info/">Moneroblocks Explorer</a> || 
+	<a href="https://monerohash.com/explorer/">Monerohash explorer</a> || 
+	<a href="https://monero.fail/map">Map of Monero Network</a></h4>
+	<h4 style="font-size: 13px; margin: 0px"><a href="https://www.exploremonero.com/">For a pretty version of this explorer with javascript</a></h4>
+	<h4 style="font-size: 13px; margin: 0px">NOTE: This explorer actively tests beta software in production. If it crashes, hooray! We found a bug! Please find a backup explorer for these instances.</h4>
+	<h4 style="font-size: 13px; margin: 0px">The most up to date software for Monero are version: CLI v0.18.0.0, GUI v0.18.0.0</h4>
+	<h4 style="font-size: 13px; margin: 0px">If you need to use a remote node, you should set up your own. <a href="https://sethsimmons.me/guides/run-a-monero-node/">Good guide for setting up a remote node.</a></h4> 
+        <h2 class="center"><a href="https://github.com/monero-project/monero/issues/8134">High Fee Bug</a>. Remote nodes can increase your tx fees. Double check before sending. Run v0.18.0.0 of GUI. Run your own node.</h2>
+    </div>
+
+    <div class="center">
+        <form action="https://xmrchain.net/search" method="get" style="width:100%; margin-top:15px" class="style-1">
+            <input type="text" name="value" size="120" placeholder="block height, block hash, transaction hash">
+            <input type="submit" value="Search">
+        </form>
+    </div>
+
+</div>
+
+<div>
+
+    <h4>Block hash (height): 9809ab5e36bc3d2285ac1cb055e1d7f4aacaa667ff2a471009e37a2b70f1bcad (2672376)</h4>
+
+
+    <h5>Previous block: <a href="https://xmrchain.net/block/f58fed00edf43ce0e935492ef685ec1a9e0fcecb6bed906c417748fb14ac4647">f58fed00edf43ce0e935492ef685ec1a9e0fcecb6bed906c417748fb14ac4647</a></h5>
+
+    <h5>Next block: <a href="https://xmrchain.net/block/7c350eb6cb18e349d5de47eca0c26d0965b3bc3f4e88d5d49ddcd0123d4db48d">7c350eb6cb18e349d5de47eca0c26d0965b3bc3f4e88d5d49ddcd0123d4db48d</a></h5>
+
+
+
+    <table class="center">
+        <tbody><tr>
+            <td>Timestamp [UTC] (epoch):</td><td>2022-07-21 19:59:38 (1658433578)</td>
+            <td>Age [h:m:s]:</td><td>03:10:44</td>
+            <td>Δ [h:m:s]:</td><td>00:01:27</td>
+        </tr>
+        <tr>
+            <td>Major.minor version:</td><td>14.14</td>
+            <td>Block reward:</td><td>0.600000</td>
+            <td>Block size [kB]:</td><td>64.3975</td>
+        </tr>
+        <tr>
+            <td>nonce:</td><td>721479</td>
+            <td>Total fees:</td><td>0.006513</td>
+            <td>No of txs:</td><td>41</td>
+        </tr>
+        <tr>
+            <td>PoW hash:</td><td>bf0d2dfcbcb389d052c71e3adbb723cb27b4c95b5b5b7eaa432de90000000000</td>
+            <td>Difficulty:</td><td>306007714187</td>
+                <td></td>
+            <td></td>
+        </tr>
+    </tbody></table>
+
+    <h3>Miner reward transaction</h3>
+    <table class="center">
+        <tbody><tr>
+            <td>hash</td>
+            <td>outputs</td>
+            <td>size [kB]</td>
+            <td>version</td>
+        </tr>
+            <tr>
+                <td><a href="https://xmrchain.net/tx/b00908bc6b4918c43f2c2cd78d060181abbe60ee4831565ca9219ae17d3ec322">b00908bc6b4918c43f2c2cd78d060181abbe60ee4831565ca9219ae17d3ec322</a>
+                </td><td>0.606513</td>
+                <td>0.1025</td>
+                <td>2</td>
+            </tr>
+
+    </tbody></table>
+
+
+
+    <h3>Transactions (41)</h3>
+        <table class="center" style="width:80%">
+            <tbody><tr>
+                <td>hash</td>
+                <td>outputs</td>
+                <td>fee [µɱ]</td>
+                <td>in/out</td>
+                <td>size [kB]</td>
+                <td>version</td>
+            </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/3a7653eb0ee68dfaacf8958b3a70b92c73756d2a46ba5c9670c036d17bb623d8">3a7653eb0ee68dfaacf8958b3a70b92c73756d2a46ba5c9670c036d17bb623d8</a></td>
+                    <td>?</td>
+                    <td>5820</td>
+                    <td>1/2</td>                    
+                    <td>1.4209</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/70bb6b266761714eae0fe8f79a772023371fed4a25ed2fc28e897c5f96a46f08">70bb6b266761714eae0fe8f79a772023371fed4a25ed2fc28e897c5f96a46f08</a></td>
+                    <td>?</td>
+                    <td>0196</td>
+                    <td>2/2</td>                    
+                    <td>1.9170</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/1e04915031510153e5de54b81ada2810cb39934fcdedc21c9ea7a23b708694e0">1e04915031510153e5de54b81ada2810cb39934fcdedc21c9ea7a23b708694e0</a></td>
+                    <td>?</td>
+                    <td>0197</td>
+                    <td>2/2</td>                    
+                    <td>1.9229</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/f6c92618ae5a5134cf4555301c709d0f21b65f6c14c73c91a2988d1a921c78de">f6c92618ae5a5134cf4555301c709d0f21b65f6c14c73c91a2988d1a921c78de</a></td>
+                    <td>?</td>
+                    <td>0031</td>
+                    <td>1/2</td>                    
+                    <td>1.4219</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/b5b6360e73065cf6f7b1c99a7ec9dc860b5f8c114c331ea6107f6cfb246859e0">b5b6360e73065cf6f7b1c99a7ec9dc860b5f8c114c331ea6107f6cfb246859e0</a></td>
+                    <td>?</td>
+                    <td>0029</td>
+                    <td>1/2</td>                    
+                    <td>1.4189</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/1949d6fb7b7a144a698adb0c3d412695592fba89f0620ac21d12373ae53b732e">1949d6fb7b7a144a698adb0c3d412695592fba89f0620ac21d12373ae53b732e</a></td>
+                    <td>?</td>
+                    <td>0011</td>
+                    <td>1/2</td>                    
+                    <td>1.4209</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/7aca5afabfcc19869a721e7600cdcd1173bedb01058493624b1d312a36614148">7aca5afabfcc19869a721e7600cdcd1173bedb01058493624b1d312a36614148</a></td>
+                    <td>?</td>
+                    <td>0011</td>
+                    <td>1/2</td>                    
+                    <td>1.4229</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/7360f62d021a12b84fcba3b45fde7ffad5fea4188da1324b100ccececc520894">7360f62d021a12b84fcba3b45fde7ffad5fea4188da1324b100ccececc520894</a></td>
+                    <td>?</td>
+                    <td>0006</td>
+                    <td>1/2</td>                    
+                    <td>1.4189</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/90f350925d13c8133e7289d61b75adac845232c22e392c6cd868e42377b5ef39">90f350925d13c8133e7289d61b75adac845232c22e392c6cd868e42377b5ef39</a></td>
+                    <td>?</td>
+                    <td>0006</td>
+                    <td>1/2</td>                    
+                    <td>1.4189</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/5106ddd5c5bfdc2f2eb54d8e1a287dece7f9cdccb26ad7352de7d882ba89a978">5106ddd5c5bfdc2f2eb54d8e1a287dece7f9cdccb26ad7352de7d882ba89a978</a></td>
+                    <td>?</td>
+                    <td>0006</td>
+                    <td>1/2</td>                    
+                    <td>1.4189</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/856eecc15a183d1d0e2546a5b1f2d93f3a812ee4e3039a40b214e09abfa54291">856eecc15a183d1d0e2546a5b1f2d93f3a812ee4e3039a40b214e09abfa54291</a></td>
+                    <td>?</td>
+                    <td>0006</td>
+                    <td>1/2</td>                    
+                    <td>1.4238</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/39332c36a440530c9e540554081adb04a2aca8aa76f26a9cb5074804b24818c6">39332c36a440530c9e540554081adb04a2aca8aa76f26a9cb5074804b24818c6</a></td>
+                    <td>?</td>
+                    <td>0006</td>
+                    <td>1/2</td>                    
+                    <td>1.4238</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/40b133f45767068fc904c7f12b3ee306fa77557358dab67bf8f818f9c20b5e7f">40b133f45767068fc904c7f12b3ee306fa77557358dab67bf8f818f9c20b5e7f</a></td>
+                    <td>?</td>
+                    <td>0006</td>
+                    <td>1/2</td>                    
+                    <td>1.4219</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/73392eccbc166c0723a1e3934f2de32279931322a1b2d0769b473d6a510e6a42">73392eccbc166c0723a1e3934f2de32279931322a1b2d0769b473d6a510e6a42</a></td>
+                    <td>?</td>
+                    <td>0006</td>
+                    <td>1/2</td>                    
+                    <td>1.4219</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/71839db65674cf48685b7a747d02e0e7669fc72ecfd80b16e855684c9027f4b1">71839db65674cf48685b7a747d02e0e7669fc72ecfd80b16e855684c9027f4b1</a></td>
+                    <td>?</td>
+                    <td>0006</td>
+                    <td>1/2</td>                    
+                    <td>1.4219</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/4e73e3bcc654f34f9830833943a5752cba833626b1aa8d3b02baf1d715dc370b">4e73e3bcc654f34f9830833943a5752cba833626b1aa8d3b02baf1d715dc370b</a></td>
+                    <td>?</td>
+                    <td>0008</td>
+                    <td>2/2</td>                    
+                    <td>1.9219</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/94508063c453f9ea7a19fd2250aee3a66ad8d10a3936bfea7b3a681f0fefb096">94508063c453f9ea7a19fd2250aee3a66ad8d10a3936bfea7b3a681f0fefb096</a></td>
+                    <td>?</td>
+                    <td>0008</td>
+                    <td>2/2</td>                    
+                    <td>1.9199</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/9f742073c7d778d3da5f560537dd08d01dda54af6e3466367b60afcb725bfb98">9f742073c7d778d3da5f560537dd08d01dda54af6e3466367b60afcb725bfb98</a></td>
+                    <td>?</td>
+                    <td>0008</td>
+                    <td>2/2</td>                    
+                    <td>1.9248</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/ad448a7fcecfa3be9b25159b0d703d1f041eccc40ff604ece7ca154237b455d1">ad448a7fcecfa3be9b25159b0d703d1f041eccc40ff604ece7ca154237b455d1</a></td>
+                    <td>?</td>
+                    <td>0008</td>
+                    <td>2/2</td>                    
+                    <td>1.9248</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/4030548f7647667ab2c1da3bf6c75a487b1a449641a9876c05ff8ac0285c19e6">4030548f7647667ab2c1da3bf6c75a487b1a449641a9876c05ff8ac0285c19e6</a></td>
+                    <td>?</td>
+                    <td>0006</td>
+                    <td>1/2</td>                    
+                    <td>1.4199</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/8787022a355c22d16672bc4fd8c883ecac6322c784d5e35811259d861a8245b7">8787022a355c22d16672bc4fd8c883ecac6322c784d5e35811259d861a8245b7</a></td>
+                    <td>?</td>
+                    <td>0006</td>
+                    <td>1/2</td>                    
+                    <td>1.4199</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/bf41f3d053c8aede8e326600210621e9ac9b5eec16bc81aebb1507fd30d079ec">bf41f3d053c8aede8e326600210621e9ac9b5eec16bc81aebb1507fd30d079ec</a></td>
+                    <td>?</td>
+                    <td>0006</td>
+                    <td>1/2</td>                    
+                    <td>1.4199</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/a3db4a92d2e593d78a10c221f9715de401b64f2d5284677d8ffafe56e3eae898">a3db4a92d2e593d78a10c221f9715de401b64f2d5284677d8ffafe56e3eae898</a></td>
+                    <td>?</td>
+                    <td>0006</td>
+                    <td>1/2</td>                    
+                    <td>1.4199</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/90ae46663bc4cf1801433ddda8d14532676ef16475121793ca480a9d0d21f485">90ae46663bc4cf1801433ddda8d14532676ef16475121793ca480a9d0d21f485</a></td>
+                    <td>?</td>
+                    <td>0008</td>
+                    <td>2/2</td>                    
+                    <td>1.9229</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/d6635f4f2d20fc4e682d456774df0d572ac9ae9df8cf8f7c7a09efa8cc9b3eab">d6635f4f2d20fc4e682d456774df0d572ac9ae9df8cf8f7c7a09efa8cc9b3eab</a></td>
+                    <td>?</td>
+                    <td>0006</td>
+                    <td>1/2</td>                    
+                    <td>1.4180</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/f9db4845295eb2964be427dbd892d44a8feb1ca9c22fe592d09e57932f0f1708">f9db4845295eb2964be427dbd892d44a8feb1ca9c22fe592d09e57932f0f1708</a></td>
+                    <td>?</td>
+                    <td>0006</td>
+                    <td>1/2</td>                    
+                    <td>1.4229</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/2724dc437810140f1ac99e10f1c6068f06d73eb337727506c726cffbe853a180">2724dc437810140f1ac99e10f1c6068f06d73eb337727506c726cffbe853a180</a></td>
+                    <td>?</td>
+                    <td>0006</td>
+                    <td>1/2</td>                    
+                    <td>1.4229</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/5a6db4eeb6fdb543a0d4a2f8486ec379fcebe72ce481c5d0dcb883f6cb854222">5a6db4eeb6fdb543a0d4a2f8486ec379fcebe72ce481c5d0dcb883f6cb854222</a></td>
+                    <td>?</td>
+                    <td>0006</td>
+                    <td>1/2</td>                    
+                    <td>1.4229</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/a6ccade42af269b3e6b2e3b2930b32480a1ebdcd8a76392241569073dbe9616d">a6ccade42af269b3e6b2e3b2930b32480a1ebdcd8a76392241569073dbe9616d</a></td>
+                    <td>?</td>
+                    <td>0006</td>
+                    <td>1/2</td>                    
+                    <td>1.4229</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/a15da40fd27e7bf5363eaacbca78aa93898e669852999931232d1b14fc53d0a7">a15da40fd27e7bf5363eaacbca78aa93898e669852999931232d1b14fc53d0a7</a></td>
+                    <td>?</td>
+                    <td>0006</td>
+                    <td>1/2</td>                    
+                    <td>1.4229</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/70842c2ef81094a5c7a43a3aa460aaf58b9e6a0995360043d47894bbfd86ab40">70842c2ef81094a5c7a43a3aa460aaf58b9e6a0995360043d47894bbfd86ab40</a></td>
+                    <td>?</td>
+                    <td>0008</td>
+                    <td>2/2</td>                    
+                    <td>1.9258</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/52894442b7c79b9ac0f48176ca9c6f63d8a057d515f4249bd6e1ef7c2271c2d3">52894442b7c79b9ac0f48176ca9c6f63d8a057d515f4249bd6e1ef7c2271c2d3</a></td>
+                    <td>?</td>
+                    <td>0008</td>
+                    <td>2/2</td>                    
+                    <td>1.9258</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/0393b5ed557c0c0b7b3896f8e54c5c2cbad9fc1889591c15fd8944b984513b26">0393b5ed557c0c0b7b3896f8e54c5c2cbad9fc1889591c15fd8944b984513b26</a></td>
+                    <td>?</td>
+                    <td>0006</td>
+                    <td>1/2</td>                    
+                    <td>1.4209</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/b6d98799c08fac0a6da3cf0bb507502e987f87ac67d1726d09b99a7b1bd54434">b6d98799c08fac0a6da3cf0bb507502e987f87ac67d1726d09b99a7b1bd54434</a></td>
+                    <td>?</td>
+                    <td>0006</td>
+                    <td>1/2</td>                    
+                    <td>1.4209</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/f4e7053de05e235f569d187146eaa8a0ab47b7455a69837ea97d4797c034ec3d">f4e7053de05e235f569d187146eaa8a0ab47b7455a69837ea97d4797c034ec3d</a></td>
+                    <td>?</td>
+                    <td>0006</td>
+                    <td>1/2</td>                    
+                    <td>1.4209</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/5b4b299b4a7295eae4b5916431ada4e42cc28f46f62bf39d45215ecb83071ccd">5b4b299b4a7295eae4b5916431ada4e42cc28f46f62bf39d45215ecb83071ccd</a></td>
+                    <td>?</td>
+                    <td>0008</td>
+                    <td>2/2</td>                    
+                    <td>1.9238</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/71c211b1d6f6fbf9d1f5ac79e4d33157924d8b914aaa748d2c711c25b1b598c3">71c211b1d6f6fbf9d1f5ac79e4d33157924d8b914aaa748d2c711c25b1b598c3</a></td>
+                    <td>?</td>
+                    <td>0008</td>
+                    <td>2/2</td>                    
+                    <td>1.9287</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/e5408baec5499e55f2afde4ea1639c442ebaa4c220a156adec24eb4a0a55957a">e5408baec5499e55f2afde4ea1639c442ebaa4c220a156adec24eb4a0a55957a</a></td>
+                    <td>?</td>
+                    <td>0006</td>
+                    <td>1/2</td>                    
+                    <td>1.4209</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/d8a479243de7f70c227791e8a56800829632b27484636f8bb06a1b7b5833e03a">d8a479243de7f70c227791e8a56800829632b27484636f8bb06a1b7b5833e03a</a></td>
+                    <td>?</td>
+                    <td>0008</td>
+                    <td>2/2</td>                    
+                    <td>1.9238</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/caafd5b5170d7615b8d1002faf425164bcfb0dc32b0539f5e2dbc5ea43988d8c">caafd5b5170d7615b8d1002faf425164bcfb0dc32b0539f5e2dbc5ea43988d8c</a></td>
+                    <td>?</td>
+                    <td>0006</td>
+                    <td>1/2</td>                    
+                    <td>1.4209</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td><a href="https://xmrchain.net/tx/b9490798fc7c1595a62f156186fdd8608df72d8411683f247285d4e69301a445">b9490798fc7c1595a62f156186fdd8608df72d8411683f247285d4e69301a445</a></td>
+                    <td>?</td>
+                    <td>0006</td>
+                    <td>1/2</td>                    
+                    <td>1.4209</td>
+                    <td>2</td>
+                </tr>
+        </tbody></table>
+
+
+
+</div>
+<div class="center">
+    <h6 style="margin-top:10px">
+        <a href="https://github.com/moneroexamples/onion-monero-blockchain-explorer">source code</a>
+        | explorer version (api): master-2022-07-19-aa96ce2 (1.2)
+    </h6>
+</div>
+
+
+</body></html>
+------MultipartBoundary--MWGKBNTZfy68pQ63If6zAis3bIx6eJdsijqF5jKqRi----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-4b37244b-0d65-405c-819e-c1a9fc32eb72@mhtml.blink
+
+@charset "utf-8";
+
+body { margin: 0px; padding: 0px; color: black; background-color: white; }
+
+h1, h2, h3, h4, h5, h6 { text-align: center; }
+
+.center { margin: auto; width: 96%; }
+
+tr, li, #pages, .info { font-family: "Lucida Console", Monaco, monospace; font-size: 12px; height: 22px; }
+
+#pages { margin-top: 15px; }
+
+td { text-align: center; }
+
+a:link { text-decoration: none; color: black; }
+
+a:visited { text-decoration: none; color: black; }
+
+a:hover { text-decoration: underline; color: black; }
+
+a:active { text-decoration: none; color: black; }
+
+form { display: inline-block; text-align: center; }
+
+.style-1 input[type="text"] { padding: 2px; border: 1px solid rgb(220, 220, 220); transition: box-shadow 0.3s ease 0s, border 0.3s ease 0s; }
+
+.style-1 input[type="text"]:focus, .style-1 input[type="text"].focus { border: 1px solid rgb(112, 112, 112); box-shadow: rgb(150, 150, 150) 0px 0px 5px 1px; }
+
+.tabs { position: relative; min-height: 220px; clear: both; margin: 25px 0px; }
+
+.tab { float: left; }
+
+.tab label { background: gray; padding: 10px; border: 1px solid rgb(204, 204, 204); margin-left: -1px; position: relative; left: 1px; }
+
+.tab [type="radio"] { display: none; }
+
+.content { position: absolute; inset: 28px 0px 0px; background: gray; padding: 20px; border: 1px solid rgb(204, 204, 204); }
+
+[type="radio"]:checked ~ label { background: rgb(80, 80, 80); border-bottom: 1px solid white; z-index: 2; }
+
+[type="radio"]:checked ~ label ~ .content { z-index: 1; }
+
+input#toggle-1[type="checkbox"] { position: absolute; left: -9999px; }
+
+label#show-decoded-inputs { display: inline-block; cursor: pointer; background-color: black; color: white; width: 100%; text-align: center; }
+
+div#decoded-inputs { display: none; }
+
+input#toggle-1[type="checkbox"]:checked ~ div#decoded-inputs { display: block; }
+------MultipartBoundary--MWGKBNTZfy68pQ63If6zAis3bIx6eJdsijqF5jKqRi------
